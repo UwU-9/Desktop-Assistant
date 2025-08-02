@@ -23,7 +23,7 @@ def text_to_speech(text, lang="en", slow=False):
 
 
 
-text = input("Enter Text: ")
 
-text_to_speech(text)
+
+
 
